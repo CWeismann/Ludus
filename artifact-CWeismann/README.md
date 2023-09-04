@@ -1,4 +1,4 @@
-# artifact-CWeismann
+# Ludus
 
 ## About Ludus
 Ludus is an internal DSL implemented in Scala. The purpose of Ludus is to aid in 
